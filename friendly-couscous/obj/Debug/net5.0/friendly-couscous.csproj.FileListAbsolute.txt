@@ -1,0 +1,16 @@
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\friendly-couscous.exe
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\friendly-couscous.deps.json
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\friendly-couscous.runtimeconfig.json
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\friendly-couscous.runtimeconfig.dev.json
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\friendly-couscous.dll
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\ref\friendly-couscous.dll
+C:\WORK\REPO\friendly-couscous\friendly-couscous\bin\Debug\net5.0\friendly-couscous.pdb
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.csproj.AssemblyReference.cache
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.AssemblyInfoInputs.cache
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.AssemblyInfo.cs
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.dll
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\ref\friendly-couscous.dll
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.pdb
+C:\WORK\REPO\friendly-couscous\friendly-couscous\obj\Debug\net5.0\friendly-couscous.genruntimeconfig.cache
